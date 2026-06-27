@@ -1,4 +1,4 @@
-# Green Grocer App - UI/UX Prototype
+# FreshCart App - UI/UX Prototype
 
 ## 📌 Project Overview
 This is **Project 4: The Living Prototype** for my UI/UX Design Industrial Training at **DecodeLabs** (Batch: 2026). The main goal of this project is to convert static UI designs into a dynamic, interactive, and clickable high-fidelity prototype.
